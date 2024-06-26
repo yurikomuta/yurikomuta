@@ -5,9 +5,13 @@
 - 📫 Contate me : yuri.komuta@gmail.com
 - 😄 Pronomes: Ela/Dela/She/her
 
-<div>
-  <a href="https://github.com/yurikomuta/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurikomuta&show_icons=true&theme=tokyonight">
+<!--Stats-->
+<div style="display: inline">
+   <a href="https://github.com/yurikomuta">
+   <div style="display: inline_block">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurikomuta&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=00688b&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikomuta&layout=compact&langs_count=7&bg_color=151515&border_color=00688b&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
 </div>
 
 <div style="display: inline_block"><br>
