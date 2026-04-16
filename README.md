@@ -6,10 +6,6 @@
 - 📫 How to reach me **yuri.komuta@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-
 <!--social media-->
 <div> 
   <a href="https://instagram.com/yurikomuta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
