@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri</h1>
 <h3 align="center">A passionate machine learning, deep learning and education from Brazil</h3>
 
-- 💬 Ask me about **python, javascript, databases, IoT, projects**
+- 💬 Ask me about **machine learning, databases, IoT, projects**
 
 - 📫 How to reach me **yuri.komuta@gmail.com**
 
